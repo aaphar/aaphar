@@ -7,6 +7,8 @@
   alt="WakaTime"
 /><a>
 
+<a href="https://wakatime.com/@10a9ce00-cf75-4dee-be05-e0801470c367"><img src="https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg" alt="Total time coded since Mar 7 2022" /></a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApharMagaramova&layout=compact&theme=algolia)](https://github.com/ApharMagaramova/github-readme-stats)
 
