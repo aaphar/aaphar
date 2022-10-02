@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: 
 
-<a href="meherremova.afer2003@gmail.com">:email:<a>
+  :email:meherremova.afer2003@gmail.com"
 
 <!--
 **ApharMagaramova/ApharMagaramova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
