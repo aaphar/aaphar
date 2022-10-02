@@ -2,6 +2,11 @@
 
 🌱 I’m currently learning Java Backend development
 
+<img
+  src="https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg"
+  alt="WakaTime"
+/>
+
 https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg
 
 
