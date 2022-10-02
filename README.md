@@ -7,11 +7,10 @@
   alt="WakaTime"
 />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApharMagaramova&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApharMagaramova&layout=compact)](https://github.com/ApharMagaramova/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApharMagaramova&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApharMagaramova&show_icons=true&theme=radical)
 
 
 <!--
