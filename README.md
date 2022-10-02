@@ -12,16 +12,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApharMagaramova&show_icons=true&theme=algolia)
 
-- 📫 How to reach me: 
 
-  <a href="meherremova.afer2003@gmail.com""><img
-  src="[https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg](https://user-images.githubusercontent.com/77408835/193449715-7a1c3d85-5aad-4f5d-8b18-30644c789a21.png)"
-  alt="Mail"
-/><a>
-    
-  ![image]()
   
-  :email:meherremova.afer2003@gmail.com"
+📫 How to reach me:   
+  - :email:meherremova.afer2003@gmail.com"
 
 <!--
 **ApharMagaramova/ApharMagaramova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
