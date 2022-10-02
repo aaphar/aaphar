@@ -2,8 +2,6 @@
 
 🌱 I’m currently learning Java
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApharMagaramova)](https://github.com/ApharMagaramova/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApharMagaramova&layout=compact)](https://github.com/ApharMagaramova/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApharMagaramova)](https://github.com/ApharMagaramova/github-readme-stats)
