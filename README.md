@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApharMagaramova)](https://github.com/ApharMagaramova/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApharMagaramova)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApharMagaramova&layout=compact)](https://github.com/ApharMagaramova/github-readme-stats)
 
