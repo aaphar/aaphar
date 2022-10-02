@@ -7,8 +7,6 @@
   alt="WakaTime"
 />
 
-https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApharMagaramova&layout=compact)](https://github.com/ApharMagaramova/github-readme-stats)
 
