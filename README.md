@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋, I am Aphar Magarramova
+### I am Junior Java Backend developer
 
-🌱 I’m currently learning Java Backend development
+🌱 I’m currently learning Java
+  
+📫 How to reach me meherremova.afer2003@gmail.com
 
 <a href="https://wakatime.com/@10a9ce00-cf75-4dee-be05-e0801470c367"><img src="https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg" alt="Total time coded since Mar 7 2022" /></a>
 
@@ -12,9 +15,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApharMagaramova&show_icons=true&theme=algolia)
 
 
-  
-📫 How to reach me:   
-  - :email:meherremova.afer2003@gmail.com
 
 <!--
 **ApharMagaramova/ApharMagaramova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
