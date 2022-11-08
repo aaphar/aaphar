@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Java and writing articles on <a href="https://medium.com/@aphar">Medium</a>
   
-📫 How to reach me meherremova.afer2003@gmail.com
+- 📫 How to reach me meherremova.afer2003@gmail.com
 
 <a href="https://wakatime.com/@10a9ce00-cf75-4dee-be05-e0801470c367"><img src="https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg" alt="Total time coded since Mar 7 2022" /></a>
 
