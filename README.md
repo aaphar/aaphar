@@ -1,7 +1,7 @@
 # Hi there 👋, I am Aphar Magarramova
    ### I am Junior Java Backend developer
 
--🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java
 - ⚡ Fun fact: I am writing articles on <a href="https://medium.com/@aphar">Medium</a>
   
 📫 How to reach me meherremova.afer2003@gmail.com
