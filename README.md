@@ -10,9 +10,9 @@
 <a href="https://www.codewars.com/users/aphar.magaramova"><img src="https://www.codewars.com/users/aphar.magaramova/badges/small" alt="codewars"></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApharMagaramova&layout=compact&theme=algolia)](https://github.com/ApharMagaramova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaphar&layout=compact&theme=algolia)](https://github.com/ApharMagaramova/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApharMagaramova&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaphar&show_icons=true&theme=algolia)
 
 
 
