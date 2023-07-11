@@ -1,5 +1,5 @@
 # Hi there 👋, I am Aphar Magarramova
-   ### I am Junior Java Backend developer
+   ### I am Junior Backend developer
 
 - 🌱 I’m currently learning .Net Backend development development
   
