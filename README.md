@@ -1,7 +1,9 @@
 # Hi there 👋, I am Aphar Magarramova
    ### I am Junior Java Backend developer
 
-- 🌱 I’m currently learning Backend development and writing articles on <a href="https://medium.com/@aphar">Medium</a>
+- 🌱 I’m currently learning .Net Backend development development
+  
+- 🖊️ writing articles on <a href="https://medium.com/@aphar">Medium</a>
   
 - 📫 How to reach me apharmagaramova@gmail.com
 
