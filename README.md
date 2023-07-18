@@ -11,8 +11,9 @@
 
 <a href="https://www.codewars.com/users/aphar.magaramova"><img src="https://www.codewars.com/users/aphar.magaramova/badges/small" alt="codewars"></a>
 
+<!--
 ![Profile views](https://komarev.com/ghpvc/?username=aaphar)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaphar&layout=compact&theme=algolia)](https://github.com/ApharMagaramova/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaphar&show_icons=true&theme=algolia)
