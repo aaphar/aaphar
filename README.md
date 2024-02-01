@@ -1,7 +1,7 @@
 # Hi there 👋, I am Aphar Magarramova
    ### I am Junior Backend developer
 
-- 🌱 I’m currently learning .Net Backend development
+- 🌱 I’m currently learning Spring boot 
   
 - 🖊️ writing articles on <a href="https://medium.com/@aphar">Medium</a>
   
