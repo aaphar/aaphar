@@ -1,5 +1,5 @@
 # Hi there 👋, I am Aphar Magarramova
-   ### I am Junior Backend developer
+   ### I am a Backend developer
 
 - 🌱 I’m currently learning Spring boot 
   
