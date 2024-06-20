@@ -19,7 +19,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaphar&show_icons=true&theme=algolia)
 
-
+[![committers.top badge](https://user-badge.committers.top/azerbaijan/aaphar.svg)](https://user-badge.committers.top/azerbaijan/aaphar)
 
 <!--
 **aaphar/aaphar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
