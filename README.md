@@ -9,6 +9,8 @@
 
 <a href="https://wakatime.com/@10a9ce00-cf75-4dee-be05-e0801470c367"><img src="https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg" alt="Total time coded since Mar 7 2022" /></a>
 
+<a href="https://leetcode.com/u/aphar/"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSIgY29sb3I9ImN1cnJlbnRDb2xvciI+PHBhdGggZD0iTTEzLjg1MSAzTDQuNjMgMTJhMi4wNiAyLjA2IDAgMCAwIDAgMi45NjVsNS41NTUgNS40MjFjLjg0LjgxOSAyLjIuODE5IDMuMDM4IDBMMTYgMTcuNjc2Ii8+PHBhdGggZD0ibTYuMzMyIDEwLjMzOGwzLjg1Mi0zLjc2YTIuMTg2IDIuMTg2IDAgMCAxIDMuMDM4IDBsMi43NzcgMi43MTFNMTEgMTNoOSIvPjwvZz48L3N2Zz4=" alt="Total time coded since Mar 7 2022" /></a>
+
 <a href="https://www.codewars.com/users/aphar.magaramova"><img src="https://www.codewars.com/users/aphar.magaramova/badges/small" alt="codewars"></a>
 
 
