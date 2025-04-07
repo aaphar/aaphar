@@ -9,8 +9,12 @@
 
 <a href="https://wakatime.com/@10a9ce00-cf75-4dee-be05-e0801470c367"><img src="https://wakatime.com/badge/user/10a9ce00-cf75-4dee-be05-e0801470c367.svg" alt="Total time coded since Mar 7 2022" /></a>
 
-<a href="https://leetcode.com/u/aphar/"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode account" /></a>
-
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://leetcode.com/u/aphar/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode account" style="border-radius: 8px; border: 2px solid #ddd; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    </a>
+    <p style="font-size: 18px; font-weight: bold; color: #333; margin-top: 10px;">My LeetCode Profile</p>
+</div>
 <a href="https://www.codewars.com/users/aphar.magaramova"><img src="https://www.codewars.com/users/aphar.magaramova/badges/small" alt="codewars"></a>
 
 
